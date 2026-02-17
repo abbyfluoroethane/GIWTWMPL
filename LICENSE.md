@@ -1,5 +1,5 @@
 GIWTWM(God I Wish That Were Me) Public License
-                 Copyright (c) Everyone, except Author
+                 Copyright (c) Everyone, plus Author
 
 Everyone is permitted to copy, distribute, modify, merge, sell, publish,
 sublicense or whatever they want with this software as long as you do 
