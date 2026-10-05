@@ -16,7 +16,7 @@ We understand.
   0. You just DO WHATEVER YOU WANT to the software as long as you DO
 WHATEVER YOU WANT to the author as well.
 
-  1. The author WISHES TO BE HELD responsible. Please do.
+  1. The author WISHES TO BE HELD RESPONSIBLE. Please do.
 
   2. Software under this license shall be free. As in use.
 
